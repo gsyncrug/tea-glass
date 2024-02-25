@@ -1,2 +1,2 @@
 # tea-glass
-insentive for tea 
+stake for tea 
